@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\project\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\project\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\project\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\project\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\talya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\talya\\Documents\\תכנות\\תשפד\\פרקטיקוד\\prakti4\\project\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,6 +68,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
