@@ -82,5 +82,6 @@ app.MapDelete("/tasks/{id}", async (ToDoDbContext dbContext, int id) =>
     
     return Results.NoContent();
 });
+app.MapGet("/", () => "ToDoList API is running");
 
 app.Run();
